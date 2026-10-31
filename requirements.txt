@@ -1,0 +1,14 @@
+python-dotenv>=1.0.0
+textual>=0.70.0
+rich>=13.0.0
+langchain-core>=0.2.0
+langchain-classic>=1.0.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-openai>=0.1.0
+langchain-huggingface>=0.1.0
+chromadb>=0.5.0
+pypdf>=4.0.0
+docx2txt>=0.8
+sentence-transformers>=2.2.0
+beautifulsoup4>=4.12.0
